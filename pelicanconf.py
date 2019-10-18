@@ -14,7 +14,7 @@ PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 THEME = '/Users/mgrossman/src/pelican-themes/Flex'
 
-LINKS = (("test", "google.com"),)
+LINKS = ()
 DEFAULT_LANG = 'en'
 
 # Social widget
