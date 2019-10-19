@@ -19,4 +19,4 @@ I have experience with:
 * __languages__: python3, c++11, ES6, SQL
 * __databases__: dynamodb, S3, elasticsearch, redis
 * __technologies__: mypy, statsd, protobufs, envoy
-* __tools__: git, zsh, neovim
+* __tools__: git, zsh, neovim, tmux
