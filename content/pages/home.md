@@ -15,7 +15,8 @@ While studying at Michigan, I was involved with the [Solar Car Team](https://www
 Currently, I'm a product software engineer working on the [Express Drive](https://www.lyft.com/expressdrive) team at Lyft. Previously, I've had internships on teams at Facebook (iOS), Google (Unified Notifications), and Etsy (Promoted Listings).
 
 I have experience with:
-- __languages__: python3, c++11, ES6, SQL
-- __databases__: dynamodb, S3, elasticsearch, redis
-- __technologies__: mypy, statsd, protobufs
-- __tools__: git, zsh, neovim
+
+* __languages__: python3, c++11, ES6, SQL
+* __databases__: dynamodb, S3, elasticsearch, redis
+* __technologies__: mypy, statsd, protobufs, envoy
+* __tools__: git, zsh, neovim
