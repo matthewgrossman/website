@@ -3,16 +3,16 @@
 
 body {
     margin: 0px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }
 main {
     margin: 0 auto;
     max-width: 50rem;
     line-height: 1.5;
     padding: 4rem 1rem;
-    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }
 
-h2 {
+h3 {
     margin-top: 1rem;
     padding-top: 1rem;
 }
@@ -21,26 +21,31 @@ a {
     color: #e81c4f;
 }
 
+header a {
+    font-size: 2.5rem;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
 header {
-  background-color: #263d36;
-  background-image: url("/assets/images/beddesk.png");
-  background-position: center top;
+  background-image: url("/assets/images/background.svg");
   background-repeat: no-repeat;
   background-size: cover;
-  line-height: 1.2;
-  padding: 5vw 2em;
+  background-color: #263d36;
+  padding: 5vh 2em;
   text-align: center;
 }
 
 header img {
-  display: inline-block;
   background-image: url("/assets/images/profile.png");
-  background-position: center top;
-  height: 120px;
-  /* vertical-align: top; */
-  width: 120px;
+  background-size: cover;
+  width: 15rem;
+  height: 15rem;
   border-radius: 50%;
-  max-width:100%;
+}
+
+header h1,h4 {
+    color: white;
 }
 
 code,
