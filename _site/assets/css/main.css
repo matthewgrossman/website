@@ -1,16 +1,20 @@
+/* most css taken from https://jgthms.com/web-design-in-4-minutes/ */
 @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
 
 body {
+    margin: 0px;
+}
+main {
     margin: 0 auto;
-    max-width: 50em;
+    max-width: 50rem;
     line-height: 1.5;
-    padding: 4em 1em;
+    padding: 4rem 1rem;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }
 
 h2 {
-    margin-top: 1em;
-    padding-top: 1em;
+    margin-top: 1rem;
+    padding-top: 1rem;
 }
 
 a {
@@ -19,11 +23,38 @@ a {
 
 header {
   background-color: #263d36;
-  background-image: url("header.jpg");
+  background-image: url("/assets/images/beddesk.png");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
   line-height: 1.2;
-  padding: 10vw 2em;
+  padding: 5vw 2em;
   text-align: center;
+}
+
+header img {
+  display: inline-block;
+  background-image: url("/assets/images/profile.png");
+  background-position: center top;
+  height: 120px;
+  /* vertical-align: top; */
+  width: 120px;
+  border-radius: 50%;
+  max-width:100%;
+}
+
+code,
+pre {
+  background: #eee;
+}
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+}
+
+pre {
+  padding: 1rem;
+  border-left: 2px solid #69c;
+  border-bottom: 1px solid #d8dee9;
 }
