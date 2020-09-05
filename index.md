@@ -11,11 +11,11 @@ Currently, I'm an infra SWE working on the Developer Experience (devx) team at L
 Previously, I was a product SWE working on the [Express Drive](https://www.lyft.com/expressdrive) team at Lyft.
 I've also had internships at Facebook (iOS), Google (Unified Notifications), and Etsy (Promoted Listings).
 
-buzzwords:
+__buzzwords__:
 
 * __languages__: python3, c++14, typescript, golang
 * __databases__: dynamodb, S3, redis
-* __devops__: docker, kubernetes, envoy, ELK, statsd, opentracing
+* __infra__: docker, kubernetes, envoy, ELK, statsd, opentracing
 * __tools__: git, bash, (neo)vim
 
 ### Education

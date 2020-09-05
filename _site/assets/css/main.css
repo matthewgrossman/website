@@ -37,14 +37,14 @@ header {
 }
 
 header img {
-  background-image: url("/assets/images/profile.png");
   background-size: cover;
   width: 15rem;
   height: 15rem;
   border-radius: 50%;
 }
 
-header h1,h4 {
+header h1,
+header h4 {
     color: white;
 }
 
