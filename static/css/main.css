@@ -28,7 +28,7 @@ header a {
 }
 
 header {
-  background-image: url("../images/background.svg");
+  background-image: url("/static/images/background.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #263d36;
