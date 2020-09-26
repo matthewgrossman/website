@@ -1,5 +1,5 @@
 /* most css taken from https://jgthms.com/web-design-in-4-minutes/ */
-@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+@import 'https://fonts.googleapis.com/css?family=Roboto|Avenir';
 
 body {
     margin: 0px;
@@ -43,8 +43,14 @@ header img {
   border-radius: 50%;
 }
 
+header h1 {
+    letter-spacing: .5rem;
+    font-weight: bolder;
+}
+
 header h1,
 header h4 {
+    font-family: "Avenir", sans-serif;
     color: black;
 }
 
