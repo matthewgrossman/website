@@ -28,10 +28,9 @@ header a {
 }
 
 header {
-  background-image: url("/website/static/images/background.svg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #263d36;
+  background-color: #333;
   padding: 5vh 2em;
   text-align: center;
 }
@@ -51,7 +50,7 @@ header h1 {
 header h1,
 header h4 {
     font-family: "Avenir", sans-serif;
-    color: black;
+    color: white;
 }
 
 code,
