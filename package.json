@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "npm install",
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
+    "publish": "gh-pages --dist $npm_package_config_output_dir --repo $npm_package_config_prod_repo --branch $npm_package_config_prod_branch"
   },
   "repository": {
     "type": "git",
@@ -18,6 +21,12 @@
   },
   "homepage": "https://github.com/matthewgrossman/site#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^0.11.0",
+    "gh-pages": "*"
+  },
+  "config": {
+      "prod_repo": "git@github.com:matthewgrossman/matthewgrossman.github.io.git",
+      "prod_branch": "master",
+      "output_dir": "_site"
   }
 }
