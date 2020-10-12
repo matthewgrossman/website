@@ -1,8 +1,7 @@
 {
-  "name": "site",
+  "name": "website",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "install": "npm install",
     "build": "npx @11ty/eleventy",
@@ -11,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matthewgrossman/site.git"
+    "url": "git+https://github.com/matthewgrossman/website.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matthewgrossman/site/issues"
+    "url": "https://github.com/matthewgrossman/website/issues"
   },
-  "homepage": "https://github.com/matthewgrossman/site#readme",
+  "homepage": "https://github.com/matthewgrossman/website",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
     "gh-pages": "*"
