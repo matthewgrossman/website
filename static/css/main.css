@@ -41,14 +41,14 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #333;
-  padding: 5vh 2em;
+  padding: 2rem;
   text-align: center;
 }
 
 header img {
   background-size: cover;
-  width: 15rem;
-  height: 15rem;
+  width: 16rem;
+  height: 16rem;
   border-radius: 50%;
 }
 
