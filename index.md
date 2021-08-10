@@ -3,19 +3,19 @@ layout: default.html
 title: Matthew Grossman
 ---
 
-Hello, my name is Matt. I'm a senior backend software engineer working in San Francisco.
+Hello, my name is Matt. I'm a staff backend software engineer working in San Francisco.
 
 ### Experience
-Currently, I'm an infra SWE working on the Developer Experience (devx) team at Lyft. We work with our sibling infra teams to ensure our product engineers can be as efficient and safe as possible before pushing to production.
+Currently, I'm an infra SWE working on the Developer Environments team at Lyft. We work with our sibling infra teams to ensure our product engineers can be as efficient and safe as possible before pushing to production.
 
 Previously, I was a product SWE working on the [Express Drive](https://www.lyft.com/expressdrive) team at Lyft.
 I've also had internships at Facebook (iOS), Google (Unified Notifications), and Etsy (Promoted Listings).
 
 __buzzwords__:
 
-* __languages__: python3, c++14, typescript, golang
+* __languages__: python3, typescript, golang, c++14
+* __infra__: kubernetes, envoy, opentracing
 * __databases__: dynamodb, S3, redis
-* __infra__: docker, kubernetes, envoy, ELK, statsd, opentracing
 * __tools__: git, bash, (neo)vim
 
 ### Education
