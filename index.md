@@ -11,13 +11,6 @@ Currently, I'm an infra SWE working on the Developer Environments team at Lyft. 
 Previously, I was a product SWE working on the [Express Drive](https://www.lyft.com/expressdrive) team at Lyft.
 I've also had internships at Facebook (iOS), Google (Unified Notifications), and Etsy (Promoted Listings).
 
-__buzzwords__:
-
-* __languages__: python3, typescript, golang, c++14
-* __infra__: kubernetes, envoy, opentracing
-* __databases__: dynamodb, S3, redis
-* __tools__: git, bash, (neo)vim
-
 ### Education
 After high school in LA, I attended the University of Michigan for a BSE in Computer Science.
 
