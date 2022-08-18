@@ -1,6 +1,7 @@
 baseURL = 'mrgrossman.com'
 languageCode = 'en-us'
 title = 'MATTHEW GROSSMAN'
+module.imports.path = 'github.com/hugo-mods/icons'
 # theme = "PaperMod"
 
 # [params]

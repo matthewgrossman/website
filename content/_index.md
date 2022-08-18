@@ -2,6 +2,9 @@
 Title: Matthew Grossman
 ---
 
+<!-- [{{< icon "fab github" >}}](https://github.com/matthewgrossman) -->
+<!-- [{{< icon "fab linkedin" >}}](https://linkedin.com/in/matthewryangrossman/) -->
+
 Hello, my name is Matt. I'm a staff backend software engineer working in San Francisco.
 
 ### Experience
