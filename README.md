@@ -1,7 +1,7 @@
 # Developing
 
 ### Installation
-`npm i`
+`brew install hugo`
 
 ### Running locally
-`npm run serve`
+`hugo serve`
