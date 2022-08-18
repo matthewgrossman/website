@@ -1,9 +1,9 @@
 /* most css taken from https://jgthms.com/web-design-in-4-minutes/ */
 
 .icon {
-    width: 3em;
-    height:3em;
-    padding: .5em;
+    width: 1em;
+    height:1em;
+    padding: .25em;
     vertical-align: -.140em;
     fill: currentColor;
     color: white;
