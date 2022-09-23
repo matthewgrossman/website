@@ -13,9 +13,9 @@ We're hoping to buy a house sometime in the near future.
 Any amount you're able to contribute is greatly appreciated!
 
 
-# How to send funds:
+## How to send funds:
 
-## Venmo
+### Venmo
 `venmo` is the easiest (and cheapest) way for us to receive your gift.
 
 You can send funds to Rachel's account:
@@ -24,5 +24,5 @@ You can send funds to Rachel's account:
 If you are viewing this on your computer, you can scan this QR with your phone:
 ![venmo_qr_code](../assets/venmo_qr.png){ width="300", .centered}
 
-## Check/Cash
+### Check/Cash
 We'll also have a gift-card table on the wedding day as another option.
