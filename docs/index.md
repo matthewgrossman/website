@@ -1,10 +1,3 @@
----
-hide:
-    - navigation
-    - toc
-    - footer
----
-
 # MATTHEW<br/>GROSSMAN # {: .centered}
 ![Image title](assets/favicon.png){: .circular .centered}
 # [:material-github:](https://github.com/matthewgrossman) [:material-linkedin:](https://linkedin.com/in/matthewryangrossman/) # {: .centered}

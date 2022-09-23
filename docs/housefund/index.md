@@ -1,9 +1,3 @@
----
-hide:
-    - navigation
-    - toc
----
-
 # New House Fund! # {: .centered}
 
 ![housepic](../assets/house.jpg){: .full-width .round }
