@@ -1,3 +1,6 @@
+---
+title: 🏠💸
+---
 # New House Fund! # {: .centered}
 
 ![housepic](../assets/house.jpg){: .full-width .round }
