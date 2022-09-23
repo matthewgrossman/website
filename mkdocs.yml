@@ -1,0 +1,20 @@
+site_name: Matthew Grossman
+site_description: Personal Website
+site_url: https://mrgrossman.com
+
+repo_name: matthewgrossman/website
+plugins: []
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: assets/profile.avif
+  logo: assets/profile.avif
+  font: false
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
