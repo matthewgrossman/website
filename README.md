@@ -1,5 +1,5 @@
 # website
-Source for [`mrgrossman.com`](mrgrossman.com).
+Source for [`mrgrossman.com`](https://www.mrgrossman.com).
 
 ## Installing
 1. Clone the repo
