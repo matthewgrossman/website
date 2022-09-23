@@ -4,7 +4,7 @@ hide:
     - toc
 ---
 
-# New House Fund!
+# New House Fund! # {: .centered}
 
 ![housepic](../assets/house.jpg){: .full-width .round }
 

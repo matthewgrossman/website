@@ -6,7 +6,7 @@ hide:
 ---
 
 # MATTHEW<br/>GROSSMAN # {: .centered}
-![Image title](assets/favicon.png){: .round .centered}
+![Image title](assets/favicon.png){: .circular .centered}
 # [:material-github:](https://github.com/matthewgrossman) [:material-linkedin:](https://linkedin.com/in/matthewryangrossman/) # {: .centered}
 
 Hello, my name is Matt. I'm a staff backend software engineer working in San Francisco.
