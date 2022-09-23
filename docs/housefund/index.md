@@ -25,4 +25,4 @@ If you are viewing this on your computer, you can scan this QR with your phone:
 ![venmo_qr_code](../assets/venmo_qr.png){ width="300", .centered}
 
 ## Check/Cash
-While we'd prefer to receive funds via `venmo`, we'll appreciate a contribution in any form! We'll have a gift-card table on the wedding day if you'd prefer a physical gift.
+We'll also have a gift-card table on the wedding day as another option.
