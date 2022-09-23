@@ -1,14 +1,13 @@
 site_name: Matthew Grossman
 site_description: Personal Website
 site_url: https://mrgrossman.com
-
-repo_name: matthewgrossman/website
 plugins: []
 theme:
   name: material
   custom_dir: overrides
   favicon: assets/profile.avif
   logo: assets/profile.avif
+  palette: false
   font: false
 extra_css:
   - stylesheets/extra.css
