@@ -20,7 +20,7 @@ To ensure we don't run into problems with a single provider, here are a few opti
     Rachel                                                           | Matt
     -                                                                | -
     [venmo.com/rachelgoldberg94](https://venmo.com/rachelgoldberg94) | [venmo.com/matthewgrossman](https://venmo.com/matthewgrossman)
-    ![venmo_qr_code](../assets/rachel_qr.png){ width="300"}          | ![venmo_qr_code](../assets/mg_qr.png){ width="300"}
+    ![venmo_qr_code](../assets/rachel_qr.png){ height="250" width="250" }          | ![venmo_qr_code](../assets/mg_qr.png){ height="250" width="250" }
 
 === "Cash App"
 
@@ -29,7 +29,7 @@ To ensure we don't run into problems with a single provider, here are a few opti
     Matt                                               |
     -                                                  |
     [cash.app/$grossman](https://cash.app/$grossman)   |
-    ![mg_cash_qr](../assets/mg_cash.png){ width="300"} |
+    ![mg_cash_qr](../assets/mg_cash.png){ height="250" width="250" } |
 
 === "Check/Cash"
 
