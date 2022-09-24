@@ -10,15 +10,21 @@ Any amount you're able to contribute is greatly appreciated!
 
 
 ## How to send funds:
+To ensure we don't run into problems with a single provider, here are a few options you can send to:
 
-### Venmo
-`venmo` is the easiest (and cheapest) way for us to receive your gift.
+=== "Venmo"
 
-You can send funds to Rachel's account:
-[venmo.com/rachelgoldberg94](https://venmo.com/rachelgoldberg94)
 
-If you are viewing this on your computer, you can scan this QR-code with your phone:
-![venmo_qr_code](../assets/venmo_qr.png){ width="300", .centered}
+    If you are viewing this on your computer, you can scan this QR-code with your phone:
 
-### Check/Cash
-We'll also have a gift-card table on the wedding day as another option.
+    [venmo.com/rachelgoldberg94](https://venmo.com/rachelgoldberg94) | [venmo.com/matthewgrossman](https://venmo.com/matthewgrossman)
+    - | -
+    ![venmo_qr_code](../assets/rachel_qr.png){ width="300"} | ![venmo_qr_code](../assets/mg_qr.png){ width="300"}
+
+=== "Square Cash"
+
+    asdfasdf asdfasfsda
+
+=== "Check/Cash"
+
+    We'll also have a gift-card table on the wedding day as another option.
