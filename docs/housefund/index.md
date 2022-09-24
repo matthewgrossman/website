@@ -2,6 +2,7 @@
 title: 🏠💸
 ---
 # New House Fund! # {: .centered}
+---
 
 ![housepic](../assets/house.jpg){: .full-width .round }
 
@@ -14,16 +15,21 @@ To ensure we don't run into problems with a single provider, here are a few opti
 
 === "Venmo"
 
+    If you're viewing this from your computer, you can scan the QR code with your phone and it should take you to the app.
 
-    If you are viewing this on your computer, you can scan this QR-code with your phone:
-
+    Rachel                                                           | Matt
+    -                                                                | -
     [venmo.com/rachelgoldberg94](https://venmo.com/rachelgoldberg94) | [venmo.com/matthewgrossman](https://venmo.com/matthewgrossman)
-    - | -
-    ![venmo_qr_code](../assets/rachel_qr.png){ width="300"} | ![venmo_qr_code](../assets/mg_qr.png){ width="300"}
+    ![venmo_qr_code](../assets/rachel_qr.png){ width="300"}          | ![venmo_qr_code](../assets/mg_qr.png){ width="300"}
 
-=== "Square Cash"
+=== "Cash App"
 
-    asdfasdf asdfasfsda
+    If you're viewing this from your computer, you can scan the QR code with your phone and it should take you to the app.
+
+    Matt                                               |
+    -                                                  |
+    [cash.app/$grossman](https://cash.app/$grossman)   |
+    ![mg_cash_qr](../assets/mg_cash.png){ width="300"} |
 
 === "Check/Cash"
 
