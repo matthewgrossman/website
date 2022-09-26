@@ -8,5 +8,5 @@ Source for [`mrgrossman.com`](https://www.mrgrossman.com).
 ## Run locally
 1. `poetry run mkdocs serve`
 
-## Build
-Pushing to master should kick off a new `mkdocs build` and automatically push the artifacts to `github.com/matthewgrossman/matthewgrossman.github.io`
+## Publish
+Pushing to master should kick off a new `mkdocs build` and automatically push the artifacts to `github.com/matthewgrossman/matthewgrossman.github.io`. This is handled in the [.github/workflows/ci.yml](.github/workflows/ci.yml)
