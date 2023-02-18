@@ -1,10 +1,15 @@
+<style>
+    .md-grid {
+      max-width: 960px;
+    }
+</style>
 # Resume
 ---
 
 ## Employment
 
 
-### **Tech Lead, Developer Environments** @ [Lyft](https://lyft.com) *(2020 - Current)*
+### **Infra Tech Lead, Developer Environments** @ [Lyft](https://lyft.com) *(2020 - Current)*
 
 > *Developer Environments* is a platform team focused on creating infrastucture and tooling to safely accelerate developer productivity.
 
@@ -15,7 +20,7 @@ Represented team in director reviews and 15+ presentations as I evangelized our 
 * Led a multi-year effort to deprecate our existing E2E testing solution in favor of a more cost-efficient and productive dev environment. 
 Rather than giving each dev their own expensive EC2, we leverage our shared staging environment and dynamic routing to enable request-level isolation. 
 * Worked wherever I was needed, including jenkins/deploys, python/go/typescript libraries, networking, devtools, pair-programming, project updates, and much more.
-* You can read more about our work in my [blog post](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f), or watch my presentation from _envoycon 2022_ ([recording](https://www.youtube.com/watch?v=p9dYr23MVv0), [abstract](https://envoyconna22.sched.com/event/1AO5k), [slides](assets/envoycon2022.pdf))
+* Read more about our work in my [blog post](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f), or watch my presentation from _envoycon 2022_ ([recording](https://www.youtube.com/watch?v=p9dYr23MVv0), [abstract](https://envoyconna22.sched.com/event/1AO5k), [slides](assets/envoycon2022.pdf))
 
 **Impact**: Reduced infra spend by $170k/mo and lowered maintenance costs for all of infra.<br/>
 **Technologies**: envoy, docker, kubernetes, a smidge of c++
@@ -26,7 +31,7 @@ Rather than giving each dev their own expensive EC2, we leverage our shared stag
 **Impact**: TODO <br/>
 **Technologies**: opentracing/opentelemetry, lightstep/X-Ray, procurement red tape
 ---
-### **Tech Lead, Express Drive** @ [Lyft](https://lyft.com) *(2016 - 2020)*
+### **Product Tech Lead, Express Drive** @ [Lyft](https://lyft.com) *(2016 - 2020)*
 
 > *Express Drive* is a product enabling drivers to rent vehicles through Lyft, creating a valuable supply lever for the business.
 
@@ -51,14 +56,20 @@ Implemented Pagerduty alert tagging policy to ensure properly attributed pages.
 
 **Impact**: Reduced number of oncall alerts from ~50/wk → ~5/wk <br/>
 **Technologies**: SQL, Mode/Superset, GSheets, pagerduty API
+
 ---
 ### **Internships** *(2012 - 2016)*
 
 * Promoted Listings @ Etsy
 * Unified Notifications @ Google
 * iOS @ Facebook
----
 
+---
+### **Side projects**
+* <u>[dotfiles](https://github.com/matthewgrossman/dotfiles)</u>: Talk to me about terminal emulators, neovim, and hammerspoon!
+* <u>homelab</u>: Talk to me about ansible, raspberry pis, tailscale, docker-compose, and traefik!
+
+---
 ## Education
 ### **University of Michigan - Ann Arbor** *(2012 - 2016)*
 * 3.93 GPA – BSE in Computer Science and Engineering, Class of 2016
