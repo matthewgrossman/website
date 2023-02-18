@@ -4,8 +4,9 @@
     }
 </style>
 # Resume
----
+TODO: write something high-level here
 
+---
 ## Employment
 
 
@@ -23,13 +24,13 @@ Rather than giving each dev their own expensive EC2, we leverage our shared stag
 * Read more about our work in my [blog post](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f), or watch my presentation from _envoycon 2022_ ([recording](https://www.youtube.com/watch?v=p9dYr23MVv0), [abstract](https://envoyconna22.sched.com/event/1AO5k), [slides](assets/envoycon2022.pdf))
 
 **Impact**: Reduced infra spend by $170k/mo and lowered maintenance costs for all of infra.<br/>
-**Technologies**: envoy, docker, kubernetes, a smidge of c++
+**Skills**: envoy, docker, kubernetes, the [smallest](https://github.com/envoyproxy/envoy/pull/20645) [possible](https://github.com/envoyproxy/envoy/pull/12260) amount of c++ I could get away with
 
 #### <u>Distributed Tracing</u>
 * TODO 
 
 **Impact**: TODO <br/>
-**Technologies**: opentracing/opentelemetry, lightstep/X-Ray, procurement red tape
+**Skills**: opentracing/opentelemetry, lightstep/X-Ray, procurement red tape
 ---
 ### **Product Tech Lead, Express Drive** @ [Lyft](https://lyft.com) *(2016 - 2020)*
 
@@ -46,7 +47,7 @@ I was the primary technical POC for integration efforts, ensuring multiple work 
 Architected this service from scratch, laying the groundwork for local development, databases, design patterns, and testing.
 
 **Impact**: Financial reduction of $40/vehicle/wk (~5000 weekly vehicles at the time)<br/>
-**Technologies**: python, flask, typescript, protobuffers, dynamodb, redis, EC2
+**Skills**: python, flask, typescript, protobuffers, dynamodb, redis, EC2, bikeshedding
 
 #### <u>Oncall Toil Reduction</u>
 
@@ -55,7 +56,7 @@ Implemented Pagerduty alert tagging policy to ensure properly attributed pages.
 * Identified and tactically solved select high-leverage issues (ex. flakey endpoints, underprovisioning)
 
 **Impact**: Reduced number of oncall alerts from ~50/wk → ~5/wk <br/>
-**Technologies**: SQL, Mode/Superset, GSheets, pagerduty API
+**Skills**: SQL, Mode/Superset, GSheets, pagerduty API, nagging-slackbot setup
 
 ---
 ### **Internships** *(2012 - 2016)*
