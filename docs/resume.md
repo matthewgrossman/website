@@ -37,7 +37,7 @@ Architected and led many customer-facing projects, working with data science, de
 
 * To ensure insurance costs were attributed to high-mileage drivers, we created rentals plans that charged per-mile.
 I was the primary technical POC for integration efforts, ensuring multiple work streams (mobile, backend, frontend; 10+ eng) all were unblocked and convened for an on-time launch.
-* Led the creation of a high QPS service that subscribed to our fleet's telemetry events, and segmented miles driven in-app versus off-app.
+* Led the creation of a high RPS service that subscribed to our fleet's telemetry events, and segmented miles driven in-app versus off-app.
 Architected this service from scratch, laying the groundwork for local development, databases, design patterns, and testing.
 
 **Impact**: Financial reduction of $40/vehicle/wk (~5000 weekly vehicles at the time)<br/>
