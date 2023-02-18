@@ -8,27 +8,23 @@
 
 > *Developer Environments* is a platform team focused on creating infrastucture and tooling to safely accelerate developer productivity.
 
-Led a team of 5 eng to success via direct mentorship, creating/aligning on a multi-year vision/roadmap, and negotiating projects with x-team stakeholders (networking/deploys/obs/security). 
-Represented team in 15+ presentations as I evangelized our dev product across the company.
+Led team of 5 eng through many successful launches by creating/aligning on a multi-year vision/roadmap, directly mentoring the ICs (levels 3-5), and negotiating ownership with x-team stakeholders (networking/deploys/obs/security). 
+Represented team in director reviews and 15+ presentations as I evangelized our dev product across the company.
 
-
-#### <u>E2E Testing Environment</u>
-* Led a multi-year effort to deprecate our existing E2E testing solution in favor of a more
-cost-efficient and productive dev environment. Rather than giving each dev their own
-expensive EC2, we leverage our shared staging environment and dynamic routing to
-enable request-level isolation. 
+#### <u>E2E Testing Environment Revamp</u>
+* Led a multi-year effort to deprecate our existing E2E testing solution in favor of a more cost-efficient and productive dev environment. 
+Rather than giving each dev their own expensive EC2, we leverage our shared staging environment and dynamic routing to enable request-level isolation. 
+* Worked wherever I was needed, including jenkins/deploys, python/go/typescript libraries, networking, devtools, pair-programming, project updates, and much more.
+* You can read more about our work in my [blog post](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f), or watch my presentation from _envoycon 2022_ ([recording](https://www.youtube.com/watch?v=p9dYr23MVv0), [abstract](https://envoyconna22.sched.com/event/1AO5k), [slides](assets/envoycon2022.pdf))
 
 **Impact**: Reduced infra spend by $170k/mo and lowered maintenance costs for all of infra.<br/>
 **Technologies**: envoy, docker, kubernetes, a smidge of c++
 
 #### <u>Distributed Tracing</u>
-* Led a multi-year effort to deprecate our existing E2E testing solution in favor of a more
-cost-efficient and productive dev environment. Rather than giving each dev their own
-expensive EC2, we leverage our shared staging environment and dynamic routing to
-enable request-level isolation. 
+* TODO 
 
-**Impact**: Reduced infra spend by $170k/mo and lowered maintenance costs for all of infra.<br/>
-**Technologies**: opentracing/opentelemetry, terraform, 
+**Impact**: TODO <br/>
+**Technologies**: opentracing/opentelemetry, lightstep/X-Ray, procurement red tape
 ---
 ### **Tech Lead, Express Drive** @ [Lyft](https://lyft.com) *(2016 - 2020)*
 
