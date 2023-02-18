@@ -12,7 +12,6 @@ Led a team of 5 eng to success via direct mentorship, creating/aligning on a mul
 Represented team in 15+ presentations as I evangelized our dev product across the company.
 
 
-
 #### <u>E2E Testing Environment</u>
 * Led a multi-year effort to deprecate our existing E2E testing solution in favor of a more
 cost-efficient and productive dev environment. Rather than giving each dev their own
