@@ -1,5 +1,5 @@
 # MATTHEW<br/>GROSSMAN # {: .centered}
-![Image title](assets/favicon.png){width="255" height="255" .circular .centered loading=lazy}
+![Image title](assets/favicon.webp){ .icon .circular .centered loading=lazy}
 # [:material-github:](https://github.com/matthewgrossman) [:material-linkedin:](https://linkedin.com/in/matthewryangrossman/) # {: .centered}
 
 Hello, my name is Matt. I'm a staff software engineer with experience leading infrastructure and product teams.

@@ -5,8 +5,7 @@ plugins: []
 theme:
   name: material
   custom_dir: overrides
-  favicon: assets/profile.avif
-  logo: assets/profile.avif
+  favicon: assets/favicon.webp
   palette: false
   font: false
 extra_css:
