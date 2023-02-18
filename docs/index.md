@@ -1,4 +1,3 @@
-<script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.5.0/lite-youtube.js"></script>
 # MATTHEW<br/>GROSSMAN # {: .centered}
 ![Image title](assets/favicon.png){width="255" height="255" .circular .centered loading=lazy}
 # [:material-github:](https://github.com/matthewgrossman) [:material-linkedin:](https://linkedin.com/in/matthewryangrossman/) # {: .centered}
