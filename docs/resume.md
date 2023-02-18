@@ -8,7 +8,7 @@
 
 > *Developer Environments* is a platform team focused on creating infrastucture and tooling to safely accelerate developer productivity.
 
-Set up a team for success via direct mentorship, creating/aligning on a multi-year vision/roadmap, and negotiating projects with x-team stakeholders (networking/deploys/obs/security). 
+Led a team of 5 eng to success via direct mentorship, creating/aligning on a multi-year vision/roadmap, and negotiating projects with x-team stakeholders (networking/deploys/obs/security). 
 Represented team in 15+ presentations as I evangelized our dev product across the company.
 
 
@@ -18,9 +18,18 @@ Represented team in 15+ presentations as I evangelized our dev product across th
 cost-efficient and productive dev environment. Rather than giving each dev their own
 expensive EC2, we leverage our shared staging environment and dynamic routing to
 enable request-level isolation. 
-* **Impact**: Reduced infra spend by $170k/mo and lowered maintenance costs for all of infra.
-* **Technologies**: envoy, docker, kubernetes, 
 
+**Impact**: Reduced infra spend by $170k/mo and lowered maintenance costs for all of infra.<br/>
+**Technologies**: envoy, docker, kubernetes, a smidge of c++
+
+#### <u>Distributed Tracing</u>
+* Led a multi-year effort to deprecate our existing E2E testing solution in favor of a more
+cost-efficient and productive dev environment. Rather than giving each dev their own
+expensive EC2, we leverage our shared staging environment and dynamic routing to
+enable request-level isolation. 
+
+**Impact**: Reduced infra spend by $170k/mo and lowered maintenance costs for all of infra.<br/>
+**Technologies**: opentracing/opentelemetry, terraform, 
 ---
 ### **Tech Lead, Express Drive** @ [Lyft](https://lyft.com) *(2016 - 2020)*
 
@@ -29,7 +38,7 @@ enable request-level isolation.
 
 Architected and led many customer-facing projects, working with data science, design, product, and operations to launch features.
 
-#### <u>Volume-Based Pricing Lead</u>
+#### <u>Volume-Based Pricing</u>
 
 * To ensure insurance costs were attributed to high-mileage drivers, we created rentals plans that charged per-mile.
 I was the primary technical POC for integration efforts, ensuring multiple work streams (mobile, backend, frontend; 10+ eng) all were unblocked and convened for an on-time launch.
@@ -37,10 +46,9 @@ I was the primary technical POC for integration efforts, ensuring multiple work 
 Architected this service from scratch, laying the groundwork for local development, databases, design patterns, and testing.
 
 **Impact**: Financial reduction of $40/vehicle/wk (~5000 weekly vehicles at the time)<br/>
-**Technologies**: python, flask, javascript, protobufs, dynamodb, redis, EC2
+**Technologies**: python, flask, typescript, protobuffers, dynamodb, redis, EC2
 
-
-#### <u>Oncall toil reduction</u>
+#### <u>Oncall Toil Reduction</u>
 
 * Worked with eng management to reduce burnout and improve velocity by tackling our out-of-control oncall rotation.
 Implemented Pagerduty alert tagging policy to ensure properly attributed pages.
@@ -59,4 +67,4 @@ Implemented Pagerduty alert tagging policy to ensure properly attributed pages.
 ## Education
 ### **University of Michigan - Ann Arbor** *(2012 - 2016)*
 * 3.93 GPA – BSE in Computer Science and Engineering, Class of 2016
-* Dean’s List; Fall 2012, Winter 2013, Fall 2013, Winter 2013, Fall 2014
+* Dean’s List; 2012 - 2016
