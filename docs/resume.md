@@ -15,12 +15,12 @@
 
 > *Developer Environments* is a platform team focused on creating infrastucture and tooling to safely accelerate developer productivity.
 
-Led team of 5 eng through many successful launches by creating a multi-year roadmap, directly mentoring ICs (junior through senior), and negotiating ownership with cross-team stakeholders (networking/deploys/observability/security). 
+Led team of 5 eng through many successful launches by creating a multi-year roadmap, directly mentoring ICs (junior through senior), and negotiating ownership with cross-team stakeholders (networking/deploys/observability/security).
 Represented team in director reviews and 15+ presentations as I evangelized our products across the company.
 
 #### Project: <u>E2E Testing Environment Revamp</u>
-* Led a multi-year effort to deprecate our existing E2E testing solution in favor of a more cost-efficient and productive developer environment. 
-Rather than giving each dev their own expensive EC2, we leverage our shared staging environment and dynamic routing to enable request-level isolation. 
+* Led a multi-year effort to deprecate our existing E2E testing solution in favor of a more cost-efficient and productive developer environment.
+Rather than giving each dev their own expensive EC2, we leverage our shared staging environment and dynamic routing to enable request-level isolation.
 * Worked wherever I was needed, including python/go/typescript libraries, [service mesh](https://github.com/envoyproxy/envoy/pulls?q=is%3Apr+author%3Amatthewgrossman+), github hooks, local tools, pair-programming, project updates, and much more.
 * Read more about our work in my [blog post](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f), or watch my presentation from _envoycon 2022_ ([recording](https://www.youtube.com/watch?v=p9dYr23MVv0), [abstract](https://envoyconna22.sched.com/event/1AO5k), [slides](assets/envoycon2022.pdf)).
 * **Impact**: Reduced infra spend by $170k/mo and lowered maintenance costs for all of infra.
@@ -54,7 +54,7 @@ Implemented Pagerduty alert tagging policy to ensure properly attributed pages.
 * **Impact**: Reduced number of oncall alerts from ~50/wk → ~5/wk.
 
 ### Languages and Technologies
-* `python`, `go` (familiarity with `typescript`, `c++`)
+* `python`, `go`
 * docker, kubernetes, envoy, opentelemetry
 * dynamodb, redis, protobuf
 
