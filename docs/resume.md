@@ -1,7 +1,7 @@
 <style>
-    <!-- .md-grid { -->
-    <!--   max-width: 960px; -->
-    <!-- } -->
+    .md-grid {
+      max-width: 800px;
+    }
     * {
       font-size: .72rem;
     }
