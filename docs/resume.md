@@ -20,8 +20,8 @@ Represented team in director reviews and 15+ presentations as I evangelized our 
 
 #### Project: <u>E2E Testing Environment Revamp</u>
 * Led a multi-year effort to deprecate our existing E2E testing solution in favor of a more cost-efficient and productive developer environment.
-Rather than giving each dev their own expensive EC2, we leverage our shared staging environment and dynamic routing to enable request-level isolation.
-* Worked wherever I was needed, including python/go/typescript libraries, [service mesh](https://github.com/envoyproxy/envoy/pulls?q=is%3Apr+author%3Amatthewgrossman+), github hooks, local tools, pair-programming, project updates, and much more.
+Rather than giving each dev their own expensive EC2, we leveraged our shared staging environment and dynamic routing to enable request-level isolation.
+* Worked wherever I was needed, including `python`/`go`/`typescript` libraries, [service mesh](https://github.com/envoyproxy/envoy/pulls?q=is%3Apr+author%3Amatthewgrossman+), github hooks, local tools, pair-programming, project updates, and much more.
 * Read more about our work in my [blog post](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f), or watch my presentation from _EnvoyCon 2023_ ([recording](https://www.youtube.com/watch?v=p9dYr23MVv0), [abstract](https://envoyconna22.sched.com/event/1AO5k), [slides](assets/envoycon2022.pdf)).
 * **Impact**: Reduced infra spend by $170k/mo and lowered maintenance costs for all of infra.
 
