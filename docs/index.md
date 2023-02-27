@@ -1,6 +1,6 @@
 # MATTHEW<br/>GROSSMAN # {: .centered}
 ![Image title](assets/favicon.webp){ .icon .circular .centered loading=lazy}
-# [:material-github:](https://github.com/matthewgrossman) [:material-linkedin:](https://linkedin.com/in/matthewryangrossman/) # {: .centered}
+# [:material-file-document:](https://mrgrossman.com/resume "resume") [:material-github:](https://github.com/matthewgrossman "github") [:material-linkedin:](https://linkedin.com/in/matthewryangrossman/ "linkedin") # {: .centered}
 
 Hello, my name is Matt. I'm a staff software engineer with experience leading infrastructure and product teams.
 
@@ -16,6 +16,8 @@ Lately I've been expanding into the observability space, and working on ways we 
 
 Earlier at Lyft, I was a product SWE working on the [Express Drive](https://www.lyft.com/expressdrive) team.
 I've also had internships at Facebook (iOS), Google (Unified Notifications), and Etsy (Promoted Listings).
+
+You can view my full resume at [mrgrossman.com/resume](/resume)
 
 ### Education
 After high school in LA, I attended the University of Michigan for a BSE in Computer Science.
