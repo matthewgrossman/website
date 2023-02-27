@@ -8,8 +8,12 @@
     .md-typeset h1 {
       margin: 0em;
     }
+    .md-typeset h2 {
+      margin: 0em;
+    }
 </style>
 # Matthew Grossman
+[mrgrossman.com](https://www.mrgrossman.com/) | [linkedin](https://www.linkedin.com/in/matthewryangrossman/) | [github](https://github.com/matthewgrossman/)
 ## Employment
 ### Infra Tech Lead, Developer Environments @ [Lyft](https://lyft.com) *(2020 - Current)*
 
@@ -60,7 +64,7 @@ Implemented Pagerduty alert tagging policy to ensure properly attributed pages.
 
 ### Side projects
 * <u>[dotfiles](https://github.com/matthewgrossman/dotfiles)</u>: terminal emulators, neovim, and hammerspoon
-* <u>[mrgrossman.com](https://mrgrossman.com)</u>: SSG [mkdocs-material](https://squidfunk.github.io/mkdocs-material/), used for this [resume](https://mrgrossman.com/resume) as well
+* <u>[mrgrossman.com](https://github.com/matthewgrossman/website)</u>: SSG [mkdocs-material](https://squidfunk.github.io/mkdocs-material/), used for this [resume](https://mrgrossman.com/resume) as well
 * homelab: ansible, raspberry pis, tailscale, docker-compose, and traefik
 
 ### Internships *(2012 - 2016)*
