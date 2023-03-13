@@ -15,9 +15,9 @@
 # Matthew Grossman
 [mrgrossman.com](https://www.mrgrossman.com/) | [linkedin](https://www.linkedin.com/in/matthewryangrossman/) | [github](https://github.com/matthewgrossman/)
 ## Employment
-### Infra Tech Lead, Developer Environments @ [Lyft](https://lyft.com) *(2020 - Current)*
+### Infra Tech Lead, Developer Experience @ [Lyft](https://lyft.com) *(2020 - Current)*
 
-> *Developer Environments* is a platform team focused on creating infrastucture and tooling to safely accelerate developer productivity.
+> *Developer Experience* is a platform team focused on creating infrastucture and tooling to safely accelerate developer productivity.
 
 Led team of 5 eng through many successful launches by creating a multi-year roadmap, directly mentoring ICs (junior through senior), and negotiating ownership with cross-team stakeholders (networking/deploys/observability/security).
 Represented team in director reviews and 15+ presentations as I evangelized our products across the company.

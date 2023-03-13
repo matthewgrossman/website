@@ -5,7 +5,7 @@
 Hello, my name is Matt. I'm a staff software engineer with experience leading infrastructure and product teams.
 
 ### Experience
-Currently, I'm an infra/platform SWE working on the Developer Environments team at Lyft.
+Currently, I'm an infra/platform SWE working on the Developer Experience team at Lyft.
 We work with our sibling infra teams to ensure our product engineers can be as efficient and safe as possible before pushing to production.
 You can read more about our work in our [blog series](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f), or watch my presentation from _EnvoyCon 2022_ ([recording](https://www.youtube.com/watch?v=p9dYr23MVv0), [abstract](https://envoyconna22.sched.com/event/1AO5k), [slides](assets/envoycon2022.pdf))
 
