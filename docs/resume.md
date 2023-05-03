@@ -13,6 +13,7 @@
     }
 </style>
 # Matthew Grossman
+Staff Software Engineer |
 [mrgrossman.com](https://www.mrgrossman.com/) | [linkedin](https://www.linkedin.com/in/matthewryangrossman/) | [github](https://github.com/matthewgrossman/)
 ## Employment
 ### Infra Tech Lead, Developer Experience @ [Lyft](https://lyft.com) *(2020 - Current)*
