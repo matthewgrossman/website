@@ -17,7 +17,7 @@ You can read more about our work in our [blog series](https://eng.lyft.com/scali
 
 While at Lyft, I also worked on our observability team (tracing, logging, metrics, dashboards) and a product team called [Express Drive](https://www.lyft.com/expressdrive).
 
-I've also had internships at Facebook (iOS), Google (Unified Notifications), and Etsy (Promoted Listings).
+I've had internships at Facebook (iOS), Google (Unified Notifications), and Etsy (Promoted Listings).
 
 You can view my full resume at [mrgrossman.com/resume](/resume)
 
