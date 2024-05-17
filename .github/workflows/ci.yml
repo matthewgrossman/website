@@ -20,6 +20,5 @@ jobs:
         with:
           token: ${{ secrets.FINE_GRAINED_TOKEN }}
           folder: site
-          branch: master
           single-commit: true
           repository-name: matthewgrossman/matthewgrossman.github.io
