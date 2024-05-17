@@ -24,4 +24,4 @@ You can view my full resume at [mrgrossman.com/resume](/resume)
 ### Education
 After high school in LA, I attended the University of Michigan for a BSE in Computer Science.
 
-While studying at Michigan, I was involved with the [Solar Car Team](https://www.solarcar.engin.umich.edu), [Eta Kappa Nu](https://hkn.eecs.umich.edu), and TAing for [EECS 485 (Web Systems)](https://eecs485staff.github.io/eecs485.org).
+While studying at Michigan, I was involved with the [Solar Car Team](https://www.solarcar.engin.umich.edu), [Eta Kappa Nu](https://hkn.ieee.org/hkn-chapters/all-chapters/beta_epsilon), and TAing for [EECS 485 (Web Systems)](https://eecs485staff.github.io/eecs485.org).
