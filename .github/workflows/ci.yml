@@ -21,4 +21,5 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           folder: site
           branch: master
+          single-commit: false
           repository-name: matthewgrossman/matthewgrossman.github.io
