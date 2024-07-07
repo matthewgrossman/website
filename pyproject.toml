@@ -1,5 +1,5 @@
 [project]
 name = "website"
 dependencies = [
-	"mkdocs-material==9.5.23"
+	"mkdocs-material==9.5.28"
 ]

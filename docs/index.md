@@ -6,7 +6,7 @@ Hello, my name is Matt. I'm a staff software engineer with experience leading in
 
 ### Experience
 
-I'm currently a software engineer working at [gretel.ai](https://gretel.ai/), a privacy AI company focused on creating synthetic data.
+I'm currently a software engineer working at [gretel.ai](https://gretel.ai/), a privacy AI company focused on creating synthetic data. I've lately been working on the backend infrastructure for [Gretel Navigator](https://gretel.ai/navigator), a compound-AI system for generating synthetic tabular data.
 
 Previously, I was an infra/platform SWE working on the Developer Experience team at Lyft.
 We worked with our sibling infra teams to ensure our product engineers could be as efficient and safe as possible before pushing to production.
