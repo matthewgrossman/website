@@ -6,7 +6,6 @@ theme:
   name: material
   custom_dir: overrides
   favicon: assets/favicon.webp
-  palette: false
   font: false
 extra_css:
   - stylesheets/extra.css
