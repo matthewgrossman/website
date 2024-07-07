@@ -13,6 +13,7 @@ jobs:
           python-version: '3.12'
       - name: Install `uv`
         run: pip install uv
+      # https://github.com/astral-sh/uv/issues/1386#issuecomment-2195220801
       - name: Allow uv to use the system Python by default
         run: echo "UV_SYSTEM_PYTHON=1" >> $GITHUB_ENV
       - name: Install deps
