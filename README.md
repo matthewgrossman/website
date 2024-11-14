@@ -13,7 +13,7 @@ Source for [`mrgrossman.com`](https://www.mrgrossman.com).
 1. To update local venv: `uv pip sync requirements.txt`
 
 ## Run locally
-1. `mkdocs serve -w ./`
+1. `uv run mkdocs serve -w ./`
 
 ## Publish
 Pushing to master should kick off a new `mkdocs build` and automatically push the artifacts to `github.com/matthewgrossman/matthewgrossman.github.io`. This is handled in [`.github/workflows/ci.yml`](.github/workflows/ci.yml)
