@@ -6,9 +6,9 @@ Hello, my name is Matt. I'm a staff software engineer with experience leading in
 
 ### Experience
 
-I'm currently a software engineer working at [gretel.ai](https://gretel.ai/), a privacy AI company focused on creating synthetic data. I've lately been working on the backend infrastructure for [Gretel Navigator](https://gretel.ai/navigator), a compound-AI system for generating synthetic tabular data.
+I'm currently a software engineer working at [NVIDIA](https://nvidia.com). I previously worked at [Gretel](https://gretel.ai), a privacy and synthetic-data company which was acquired by NVIDIA. While at Gretel, I worked on the backend infrastructure for [Gretel Navigator](https://gretel.ai/navigator), a compound-AI system for generating synthetic tabular data.
 
-Previously, I was an infra/platform SWE working on the Developer Experience team at Lyft.
+Before Gretel, I was an infra/platform SWE working on the Developer Experience team at Lyft.
 We worked with our sibling infra teams to ensure product engineers could be as efficient and safe as possible before pushing to production.
 You can read more about this work in our [blog series](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f), or watch my presentation from _EnvoyCon 2022_ ([recording](https://www.youtube.com/watch?v=p9dYr23MVv0), [abstract](https://envoyconna22.sched.com/event/1AO5k), [slides](assets/envoycon2022.pdf))
 
