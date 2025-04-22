@@ -3,7 +3,6 @@ site_description: Personal Website
 site_url: https://mrgrossman.com
 plugins:
   - blog
-  - privacy
 theme:
   name: material
   custom_dir: overrides
