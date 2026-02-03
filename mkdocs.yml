@@ -1,7 +1,8 @@
 site_name: Matthew Grossman
 site_description: Personal Website
 site_url: https://mrgrossman.com
-plugins: []
+plugins:
+  - blog
 theme:
   name: material
   custom_dir: overrides
