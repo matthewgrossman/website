@@ -2,7 +2,7 @@
 Source for [`mrgrossman.com`](https://www.mrgrossman.com).
 
 ## Run locally
-1. `uv run mkdocs serve -w ./`
+1. `uv run zensical serve`
 
 ## Publish
-Pushing to master should kick off a new `mkdocs build` and automatically push the artifacts to `github.com/matthewgrossman/matthewgrossman.github.io`. This is handled in [`.github/workflows/ci.yml`](.github/workflows/ci.yml)
+Pushing to master kicks off a new `zensical build` and automatically pushes the artifacts to `github.com/matthewgrossman/matthewgrossman.github.io`. This is handled in [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)
