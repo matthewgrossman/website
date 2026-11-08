@@ -14,10 +14,11 @@ jobs:
         with:
           python-version: "3.11"
           enable-cache: true
-      - name: Install deps
-        run: uv sync --frozen
-      - name: Build docs
-        run: uv run zensical build
+      - name: Build
+        run: uv run --frozen zensical build
+      - name: Remove unused theme files
+        # pages use the standalone overrides/main.html, so the theme's assets are never loaded
+        run: rm -rf site/assets/javascripts site/assets/stylesheets site/assets/images site/search.json
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@d92aa235d04922e8f08b40ce78cc5442fcfbfa2f # v4
         with:

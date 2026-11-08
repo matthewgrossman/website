@@ -1,17 +1,7 @@
-<style>
-    .md-grid {
-      max-width: 800px;
-    }
-    * {
-      font-size: .72rem;
-    }
-    .md-typeset h1 {
-      margin: 0em;
-    }
-    .md-typeset h2 {
-      margin: 0em;
-    }
-</style>
+---
+title: Resume
+layout: resume
+---
 # Matthew Grossman
 Staff Software Engineer |
 [mrgrossman.com](https://www.mrgrossman.com/) | [linkedin](https://www.linkedin.com/in/matthewryangrossman/) | [github](https://github.com/matthewgrossman/)

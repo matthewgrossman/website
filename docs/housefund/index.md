@@ -18,7 +18,7 @@ If you're viewing this from your computer, you can scan the QR code with your ph
 
 Matt                                                           |
 :-:                                                            |
-[cash.app/$grossman](https://cash.app/$grossman){ .md-button } |
+[cash.app/$grossman](https://cash.app/$grossman){ .button } |
 ![mg_cash_qr](/assets/mg_cash.png){ height="250" width="250" } |
 
 ### Check/Cash
