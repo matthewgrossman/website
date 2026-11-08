@@ -55,7 +55,7 @@ Implemented Pagerduty alert tagging policy to ensure properly attributed pages.
 
 ### Side projects
 * <u>[dotfiles](https://github.com/matthewgrossman/dotfiles)</u>: terminal emulators, neovim, and hammerspoon
-* <u>[mrgrossman.com](https://github.com/matthewgrossman/website)</u>: SSG [mkdocs-material](https://squidfunk.github.io/mkdocs-material/), used for this [resume](https://mrgrossman.com/resume) as well
+* <u>[mrgrossman.com](https://github.com/matthewgrossman/website)</u>: SSG [Zensical](https://zensical.org), used for this [resume](https://mrgrossman.com/resume) as well
 * homelab: ansible, raspberry pis, tailscale, docker-compose, and traefik
 
 ### Internships *(2012 - 2016)*
