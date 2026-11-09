@@ -8,140 +8,17 @@
     <link rel="icon" href="{{ "assets/favicon.webp" | relURL }}">
     <title>{{ with .Params.title }}{{ . }} - {{ end }}{{ site.Title }}</title>
     <style>
-      :root {
-        --fg: rgba(0, 0, 0, 0.87);
-        --fg-light: rgba(0, 0, 0, 0.54);
-        --fg-lightest: rgba(0, 0, 0, 0.07);
-        --link: #4051b5;
-        --link-hover: #526cfe;
-        --code-bg: #f5f5f5;
-        color-scheme: light;
-      }
-
-      * {
-        box-sizing: border-box;
-      }
-
-      /* the base font size is never set, so text follows the browser's font size setting */
       body {
-        margin: 0;
-        color: var(--fg);
-        background: #fff;
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        line-height: 1.8;
-        letter-spacing: -0.01em;
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-        overflow-wrap: break-word;
-      }
-
-      main {
-        max-width: 720px;
+        max-width: 45rem;
         margin: 0 auto;
-        padding: 2.4em 1.2em 3em;
-      }
-
-      h1, h2, h3, h4 {
-        line-height: 1.4;
-      }
-
-      h1, h2 {
-        letter-spacing: -0.025em;
-      }
-
-      h1 {
-        line-height: 1.3;
-        margin: 0;
-      }
-
-      h2 {
-        margin: 1.6em 0 0.64em;
-      }
-
-      h3 {
-        margin: 1.6em 0 0.8em;
-      }
-
-      p, ul, ol, blockquote, table {
-        margin: 1em 0;
-      }
-
-      ul, ol {
-        padding-left: 1.6em;
-      }
-
-      li + li {
-        margin-top: 0.5em;
-      }
-
-      a {
-        color: var(--link);
-        transition: color 125ms;
-      }
-
-      a:hover {
-        color: var(--link-hover);
-      }
-
-      code {
-        font-family: SFMono-Regular, Consolas, Menlo, monospace;
-        font-size: 0.85em;
-        background: var(--code-bg);
-        border-radius: 0.2rem;
-        padding: 0.25em 0.4em;
-      }
-
-      blockquote {
-        color: var(--fg-light);
-        border-left: 0.2rem solid rgba(0, 0, 0, 0.32);
-        margin-left: 0;
-        margin-right: 0;
-        padding-left: 0.6rem;
-      }
-
-      hr {
-        border: 0;
-        border-bottom: 1px solid var(--fg-lightest);
-        margin: 1.5em 0;
-      }
-
-      img, iframe {
-        max-width: 100%;
+        padding: 1rem;
+        font-family: system-ui, sans-serif;
+        line-height: 1.6;
       }
 
       img {
-        height: auto;
-        vertical-align: bottom;
-      }
-
-      table {
-        display: inline-block;
         max-width: 100%;
-        overflow: auto;
-        border: 1px solid var(--fg-lightest);
-        border-collapse: collapse;
-        border-radius: 0.1rem;
-        font-size: 0.85em;
-      }
-
-      th, td {
-        padding: 0.9375em 1.25em;
-        vertical-align: top;
-      }
-
-      td {
-        border-top: 1px solid var(--fg-lightest);
-      }
-
-      .button {
-        display: inline-block;
-        padding: 0.625em 2em;
-        border-radius: 1.2rem;
-        background: var(--fg-lightest);
-        color: var(--fg-light);
-        font-size: 0.875em;
-        font-weight: 700;
-        text-decoration: none;
+        height: auto;
       }
 
       .circular {
@@ -153,11 +30,11 @@
       }
 
       /* layout: resume */
-      .resume main {
-        max-width: 800px;
+      .resume {
+        max-width: 50rem;
       }
 
-      .resume h2 {
+      .resume h1, .resume h2 {
         margin: 0;
       }
     </style>
