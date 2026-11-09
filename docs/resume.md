@@ -6,7 +6,30 @@ layout: resume
 Staff Software Engineer |
 [mrgrossman.com](index.md) | [linkedin](https://www.linkedin.com/in/matthewryangrossman/) | [github](https://github.com/matthewgrossman/)
 ## Employment
-### Infra Tech Lead, Developer Experience @ [Lyft](https://lyft.com) *(2020 - Current)*
+### Software Engineer @ [NVIDIA](https://nvidia.com) *(2025 - Current)*
+
+#### Project: <u>[NeMo Helix](https://github.com/NVIDIA-NeMo/nemo-helix)</u>
+Owned the data storage services for NeMo Helix (formerly the NeMo Microservices Platform), a collection of microservices and tools for training and deploying large language models.
+
+* Inherited NeMo Datastore, a legacy service on life support, and kept it running through customer support, debugging, and bugfixes.
+Later drove its full replacement with the new Files service: investigated the core problems with the prior service and wrote and socialized the design RFC.
+Implemented the service with heavily optimized upload/download throughput, delegated across engineers, and coordinated migration across consumer teams.
+* Led the effort to separate the platform's shipped artifacts into smaller, independently versioned Python wheels, allowing plugin authors to depend on a minimal package rather than the full platform.
+Built custom Hatchling tooling to support the per-component build and publish pipeline.
+* Replaced our Stainless-generated SDK with an in-house typed client library built on off-the-shelf Python libraries: endpoints are declared once as typed Python signatures, and decorators, `ParamSpec`, overloads, and descriptors turn them into fully typed sync and async clients with streaming, pagination, retries, and auth.
+Adopted by every platform service and third-party plugin.
+* Owned multiple platform components including core proxying for the inference gateway and job results integration, and drove improvements to developer experience and observability across NeMo services.
+
+### Staff Software Engineer @ [Gretel](https://gretel.ai) *(2023 - 2025)*
+
+#### Project: <u>Gretel Navigator</u>
+Key engineer on Navigator, a compound AI system that uses an agent-based approach — composing calls across multiple LLMs — to generate, edit, and augment synthetic tabular data from natural language prompts.
+
+* Built and maintained the Python API service powering Navigator, and owned the inference routing layer abstracting over both self-hosted and third-party hosted LLMs.
+Developed an LLM configuration system enabling easy experimentation and deployment of models directly from HuggingFace into our Kubernetes cluster.
+* To support Navigator's inference backends, load-tested vLLM across GPU configurations, tuned Kubernetes autoscaling policies for LLM workloads, quantized models to reduce resource footprint, and built evaluation scripts to validate output quality.
+
+### Infra Tech Lead, Developer Experience @ [Lyft](https://lyft.com) *(2020 - 2023)*
 
 > *Developer Experience* is a platform team focused on creating infrastucture and tooling to safely accelerate developer productivity.
 
