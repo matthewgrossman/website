@@ -20,7 +20,7 @@ Built custom Hatchling tooling to support the per-component build and publish pi
 Adopted by every platform service and third-party plugin.
 * Owned multiple platform components including core proxying for the inference gateway and job results integration, and drove improvements to developer experience and observability across NeMo services.
 
-### Staff Software Engineer @ [Gretel](https://gretel.ai) *(2023 - 2025)*
+### Staff Software Engineer @ [Gretel](https://web.archive.org/web/20250602235257/https://gretel.ai/) *(2023 - 2025)*
 
 #### Project: <u>Gretel Navigator</u>
 Key engineer on Navigator, a compound AI system that uses an agent-based approach — composing calls across multiple LLMs — to generate, edit, and augment synthetic tabular data from natural language prompts.

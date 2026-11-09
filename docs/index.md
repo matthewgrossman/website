@@ -6,7 +6,7 @@ Hello, my name is Matt. I'm a staff software engineer with experience leading in
 
 ### Experience
 
-I'm currently a software engineer working at [NVIDIA](https://nvidia.com). I previously worked at [Gretel](https://gretel.ai), a privacy and synthetic-data company which was acquired by NVIDIA. While at Gretel, I worked on the backend infrastructure for [Gretel Navigator](https://gretel.ai/navigator), a compound-AI system for generating synthetic tabular data.
+I'm currently a software engineer working at [NVIDIA](https://nvidia.com). I previously worked at [Gretel](https://web.archive.org/web/20250602235257/https://gretel.ai/), a privacy and synthetic-data company which was acquired by NVIDIA. While at Gretel, I worked on the backend infrastructure for [Gretel Navigator](https://web.archive.org/web/20250630150126/https://gretel.ai/navigator), a compound-AI system for generating synthetic tabular data.
 
 Before Gretel, I was an infra/platform SWE working on the Developer Experience team at Lyft.
 We worked with our sibling infra teams to ensure product engineers could be as efficient and safe as possible before pushing to production.
