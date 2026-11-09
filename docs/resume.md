@@ -4,7 +4,7 @@ layout: resume
 ---
 # Matthew Grossman
 Staff Software Engineer |
-[mrgrossman.com](index.md) | [linkedin](https://www.linkedin.com/in/matthewryangrossman/) | [github](https://github.com/matthewgrossman/)
+[mrgrossman.com](_index.md) | [linkedin](https://www.linkedin.com/in/matthewryangrossman/) | [github](https://github.com/matthewgrossman/)
 ## Employment
 ### Software Engineer @ [NVIDIA](https://nvidia.com) *(2025 - Current)*
 

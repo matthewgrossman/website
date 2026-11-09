@@ -1,0 +1,27 @@
+baseURL = "https://www.mrgrossman.com/"
+title = "Matthew Grossman"
+disableKinds = ["taxonomy", "term", "rss"]
+
+[params]
+description = "Personal Website"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.renderHooks.link]
+useEmbedded = "fallback"
+
+[markup.goldmark.extensions.typographer]
+disable = true
+
+[[module.mounts]]
+source = "docs"
+target = "content"
+
+[[module.mounts]]
+source = "docs"
+target = "assets"
+
+[[module.mounts]]
+source = "docs/assets"
+target = "static/assets"

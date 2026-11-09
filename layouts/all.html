@@ -1,15 +1,12 @@
-{#- Standalone page template: replaces the theme entirely, so no theme CSS/JS is loaded. -#}
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="description" content="{{ config.site_description }}">
-    {% if page and page.canonical_url %}
-      <link rel="canonical" href="{{ page.canonical_url }}">
-    {% endif %}
-    <link rel="icon" href="{{ config.theme.favicon | url }}">
-    <title>{% if page and page.meta and page.meta.title %}{{ page.meta.title }} - {% endif %}{{ config.site_name }}</title>
+    <meta name="description" content="{{ site.Params.description }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="icon" href="{{ "assets/favicon.webp" | relURL }}">
+    <title>{{ with .Params.title }}{{ . }} - {{ end }}{{ site.Title }}</title>
     <style>
       :root {
         --fg: rgba(0, 0, 0, 0.87);
@@ -165,11 +162,9 @@
       }
     </style>
   </head>
-  <body{% if page and page.meta and page.meta.layout %} class="{{ page.meta.layout }}"{% endif %}>
+  <body{{ with .Layout }} class="{{ . }}"{{ end }}>
     <main>
-      {% block content %}
-        {{ page.content }}
-      {% endblock %}
+      {{ .Content }}
     </main>
   </body>
 </html>
