@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/favicon.webp" alt="Matthew Grossman" class="circular" width="255" height="255" loading="lazy"></p>
 
-<div align="center" markdown>
+<div align="center">
 
 [![resume](assets/icons/file-document.svg)](resume.md "resume")
 [![github](assets/icons/github.svg)](https://github.com/matthewgrossman "github")
@@ -20,7 +20,7 @@ Before Gretel, I was an infra/platform SWE working on the Developer Experience t
 We worked with our sibling infra teams to ensure product engineers could be as efficient and safe as possible before pushing to production.
 You can read more about this work in our [blog series](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f), or watch my presentation from _EnvoyCon 2022_ ([recording](https://www.youtube.com/watch?v=p9dYr23MVv0), [abstract](https://envoyconna22.sched.com/event/1AO5k), [slides](assets/envoycon2022.pdf))
 
-<div align="center" markdown>
+<div align="center">
 
 [<img src="assets/facade.webp" alt="How Lyft Used Envoy to Rethink Microservice Development - Matt Grossman, Lyft" width="560" height="315" loading="lazy">](https://www.youtube.com/watch?v=p9dYr23MVv0)
 
