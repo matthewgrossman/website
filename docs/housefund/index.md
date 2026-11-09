@@ -1,10 +1,11 @@
 ---
 title: 🏠💸
 ---
-# New House Fund! # {: .centered}
+<h1 align="center">New House Fund!</h1>
+
 ---
 
-![housepic](/assets/house.jpg){: .full-width .round }
+<img src="../assets/house.jpg" alt="housepic" class="round">
 
 We're hoping to buy a house sometime in the near future.
 Any amount you're able to contribute is greatly appreciated!
@@ -18,8 +19,8 @@ If you're viewing this from your computer, you can scan the QR code with your ph
 
 Matt                                                           |
 :-:                                                            |
-[cash.app/$grossman](https://cash.app/$grossman){ .button } |
-![mg_cash_qr](/assets/mg_cash.png){ height="250" width="250" } |
+<a href="https://cash.app/$grossman" class="button">cash.app/$grossman</a> |
+<img src="../assets/mg_cash.png" alt="mg_cash_qr" width="250" height="250"> |
 
 ### Check/Cash
 
