@@ -11,17 +11,7 @@ unsafe = true
 [markup.goldmark.renderHooks.link]
 useEmbedded = "fallback"
 
-[markup.goldmark.extensions.typographer]
-disable = true
-
+# lets relative links to files like assets/envoycon2022.pdf resolve from any page
 [[module.mounts]]
-source = "docs"
-target = "content"
-
-[[module.mounts]]
-source = "docs"
+source = "content"
 target = "assets"
-
-[[module.mounts]]
-source = "docs/assets"
-target = "static/assets"
